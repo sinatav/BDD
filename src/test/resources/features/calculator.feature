@@ -30,5 +30,5 @@ Scenario Outline: add two numbers
         | first | second | opt | result |
         | 2 | 2 | / | 1 |
         | 1 | 4 | ^ | 1 |
-        | -2 | 4 | ^ | -16 |
+        | -2 | 4 | ^ | 16 |
         | -14 | 7 | / | -2 |
